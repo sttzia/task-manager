@@ -19,7 +19,7 @@ A simple task management application built with JavaScript, Node.js, Express, an
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/sttzia/task-manager.git
    cd task-manager
    ```
 
